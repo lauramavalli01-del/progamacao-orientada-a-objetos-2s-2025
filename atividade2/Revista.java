@@ -1,3 +1,5 @@
+package atividade2;
+
 public class Revista extends Material {
     private String autor;
     
